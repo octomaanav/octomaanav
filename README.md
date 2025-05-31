@@ -1,11 +1,9 @@
 ## Hey there, I'm Manav Sharma <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="22" height="22" />
 
 <!-- Small intro -->
-I'm a Computer Science undergrad passionate about building impactful web applications, backend systems, and tools that make a difference. Currently exploring systems programming and contributing to open source.
+I'm a Computer Science undergrad and a Full-Stack Developer who loves make software that makes a difference
 
 </div>
-
----
 
 ### Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" />
 
@@ -27,8 +25,6 @@ I'm a Computer Science undergrad passionate about building impactful web applica
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
   
-
----
 
 ### Connect With Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="20" height="20" />
 
